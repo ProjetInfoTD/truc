@@ -1,4 +1,4 @@
 # truc
 bah je sais pas
-sting "Salut" 
+string "Salut" 
 b = "Salut"
